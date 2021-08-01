@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=karaage0703)
+
+![Metrics](https://metrics.lecoq.io/karaage0703?template=classic&config.timezone=Asia%2FTokyo)
+
 <!-- Like のバッジ -->
 <a href="https://zenn.dev/karaage0703">
   <img src="https://zenn.badge.nikaera.com/s/karaage0703/likes?style=plastic" alt="karaage0703 likes" />
